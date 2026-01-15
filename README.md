@@ -29,7 +29,7 @@ This project was a significant learning journey that involved overcoming several
    Data Scaling: Fine-tuned the Z-score scaling process for the Heatmap to ensure that the visualization accurately represented the relative expression levels across samples.
 
 
-Key Scientific Findings 📊
+Key Scientific Findings 
 
    CYP2C19 (Down-regulated, LogFC ≈ -3.9): Identified as a major biomarker showing a massive decrease in tumor samples, reflecting impaired liver detoxification.
 
